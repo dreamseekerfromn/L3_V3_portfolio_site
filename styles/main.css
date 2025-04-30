@@ -1,0 +1,31 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    color:#2c3539;
+    background-color: ghostwhite;
+}
+div.home {
+
+}
+
+div.bio {
+
+}
+
+div.projects {
+
+}
+
+div.contact {
+
+}
+
+div.container {
+    background-color: #f9f6ee;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 2%;
+    border-radius: 25px;
+    border: 2px;
+    box-shadow: 4px 4px gray;
+}
+
