@@ -1,7 +1,7 @@
 body {
     font-family: 'Courier New', Courier, monospace;
     color:#2c3539;
-    background-color: ghostwhite;
+    background-color: black;
 }
 
 .wrapper {
@@ -10,9 +10,13 @@ body {
     grid-template-rows: auto;
     margin-left: 20%;
     margin-right: 20%;
-    padding-top: 20%;
+    padding-top: 15%;
     word-spacing: 10px;
     line-height: 40px;
+    background-color: ghostwhite;
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-bottom: 10%;
 
 }
 
@@ -32,6 +36,8 @@ body {
     color:white;
     position: fixed;
     text-align:center;
+    font-size: larger;
+    font-weight: bolder;
 }
 
 li {
